@@ -1,3 +1,11 @@
+*{
+  color: rgb(153, 104, 104);
+  background-color: black;
+  border: hidden;
+  border-radius: 8px;
+  border-color: rgb(97, 95, 92);
+  border-width: 0px;
+}
 .App {
   text-align: center;
 }
